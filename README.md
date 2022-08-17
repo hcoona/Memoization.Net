@@ -2,6 +2,8 @@
 
 This project help C# make memoized function.
 
+**Moved to https://github.com/hcoona/OneDotNet/tree/b6ba33d/Memoization.Net**
+
 See [Memoization - Wikipedia](https://en.wikipedia.org/wiki/Memoization) for further details.
 
 See [aspnet/Caching](https://github.com/aspnet/Caching) for cache related details.
